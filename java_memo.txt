@@ -1,5 +1,5 @@
 1.内存泄漏问题
-http://www.jianshu.com/p/abee7c186bfa
+<a>http://www.jianshu.com/p/abee7c186bfa</a>
 要点：
 Android中的内存泄漏的原因非常简单，只要理解一句话，那就是生命周期较长的对象持有生命周期较短的对象的引用
 
